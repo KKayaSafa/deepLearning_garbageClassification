@@ -1,5 +1,16 @@
 # Garbage Classification Using Deep Learning
 
+## Abstract
+
+This study investigates the impact of deep learning based models on waste management processes. In line with sustainable environmental and economic development goals, accurate waste categorisation plays a critical role. In order to overcome the inefficiencies of traditional methods, a 10-class waste classification problem is addressed using modern deep learning architectures such as Vision Transformer (ViT) - Base, Swin Transformer-Tiny, InceptionV3, VGG19 and ResNet50V2. 
+
+The performance of the models is analysed using evaluation metrics such as accuracy, F1-score, precision and recall. The results revealed that the Vision Transformer (ViT)-Base model achieved the highest success with 95.55% accuracy and F1-score. The Swin Transformer-Tiny model stood out as a strong alternative with an accuracy of 96.05%. 
+
+Among the CNN-based models, the InceptionV3 model provided the most successful results with an accuracy rate of 93.06%, while the ResNet50V2 model showed a remarkable performance with an accuracy rate of 91.96%. On the other hand, the VGG19 model showed a lower success rate compared to the other models with an accuracy rate of 85.78%. 
+
+The experimental results emphasise the potential of modern deep learning architectures to improve waste classification processes, especially in complex and large data sets. Future work is recommended to diversify the data sets and investigate speed optimisations for real-time applications. This study demonstrates the potential of artificial intelligence-based solutions in the field of sustainable waste management. 
+
+
 ## Overview
 This project explores the impact of deep learning-based models on waste management processes. Accurate classification of waste plays a crucial role in achieving sustainability and economic development goals. To address inefficiencies in traditional methods, modern deep learning architectures such as **Vision Transformer (ViT) - Base, Swin Transformer-Tiny, InceptionV3, VGG19, and ResNet50V2** were used to solve a **10-class waste classification problem**.
 
