@@ -1,4 +1,4 @@
-# README: Jupyter Notebooks for Price Prediction and Time Series Classification
+# Jupyter Notebooks for Price Prediction and Time Series Classification
 
 ## Overview
 This repository contains Jupyter notebooks focused on price prediction and time series classification using various machine learning techniques. The notebooks leverage PySpark and other machine learning libraries to analyze and model financial data.
