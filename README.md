@@ -78,11 +78,11 @@ def preprocess_images(example):
 ### Results
 | Model                 | Accuracy (%) | F1-Score (%) |
 |-----------------------|-------------|-------------|
-| ViT-Base             | **95.55**    | **95.55**    |
-| Swin Transformer-Tiny| **96.05**    | **96.05**    |
-| InceptionV3          | 93.06        | 92.80       |
-| ResNet50V2           | 91.96        | 91.50       |
-| VGG19                | 85.78        | 85.30       |
+| ViT-Base             | **95.55**    | **95.53**    |
+| Swin Transformer-Tiny| **96.05**    | **96.58**    |
+| InceptionV3          | 93.04        | 93.06       |
+| ResNet50V2           | 91.96        | 91.94       |
+| VGG19                | 85.78        | 85.76       |
 
 - **Key Findings:**
   - **ViT-Base** achieved the highest accuracy of **95.55%**, demonstrating the effectiveness of transformer-based architectures in waste classification.
