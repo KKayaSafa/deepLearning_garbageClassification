@@ -31,6 +31,8 @@ This project explores the impact of deep learning-based models on waste manageme
   - The dataset is structured into subfolders where each folder represents a waste category.
   - Image preprocessing involves resizing images to **224x224** resolution and applying **data augmentation techniques**.
 
+https://www.kaggle.com/datasets/sumn2u/garbage-classification-v2
+
 ## Environment Setup
 - Required dependencies:
   ```bash
